@@ -2,11 +2,25 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+this project main file is App.tsx.
+Each node and workflow builder pages resides on the components folder
+images store on the assets/images folder
+
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
+
+after that you can test the App
+functionality similar to demo file 
+click on the add block will open the modal 
+![alt text](image.png)
+and that modal content all the saved workflows as well as the different transaction nodes
+![alt text](image-1.png)
+from there user can add the nodes as well as select or eit the previously saved workflow
+![alt text](image-2.png)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -30,6 +44,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
+
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
